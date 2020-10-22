@@ -12,3 +12,6 @@ conda install -c conda-forge dlib
 conda install -c conda-forge opencv
 conda install -c conda-forge face_recognition
 pip install cmake
+
+
+___Open it___
